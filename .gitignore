@@ -2,3 +2,11 @@
 /.gradle/
 /build/
 /build/classes/java/main/
+
+.gradle
+.idea
+
+
+build
+out
+/src/main/resources/application-oauth.properties
